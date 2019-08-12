@@ -33,7 +33,8 @@
     "whew": "^1.1.3"
   },
   "files": [
-    "lib/phin.min.js"
+    "lib/phin.min.js",
+    "types.d.ts"
   ],
   "engines": {
     "node": ">= 8"
